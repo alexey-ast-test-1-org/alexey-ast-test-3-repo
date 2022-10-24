@@ -1,3 +1,3 @@
 # All vulnerability types
 
-s2
+a
