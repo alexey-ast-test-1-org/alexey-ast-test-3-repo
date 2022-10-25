@@ -1,3 +1,3 @@
 # All vulnerability types
 
-s22
+s22w
